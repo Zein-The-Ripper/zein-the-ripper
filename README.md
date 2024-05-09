@@ -18,7 +18,18 @@
 - 🏠 Please join my [Discord](https://discord.gg/qVG4zRk2bd)
 ---
 
-📊 Stats
+
+<h3>👨🏻‍💻 Known Technologies</h3>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,bash,linux,py,angular,java,dart,flutter,androidstudio,css,html,js,nodejs,mysql,firebase,git,github,docker,postman,eclipse,vscode&perline=12" />
+  </a>
+</p>
+<br>
+
+
+<h3>📊 Stats</h3>
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zein-The-Ripper&theme=tokyonight)                 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zein-The-Ripper&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zein-The-Ripper&theme=tokyonight)
