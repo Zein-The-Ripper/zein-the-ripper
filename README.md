@@ -23,7 +23,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,py,java,git,dart,lua,arch,bash,linux,kali,debian,redhat,vim,neovim,angular,nodejs,express,spring,react,flutter,bootstrap,tailwind,anaconda,androidstudio,redux,postgres,mysql,mongodb,supabase,firebase,postman,figma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=arch,bash,linux,kali,debian,redhat,vim,neovim,js,ts,html,css,sass,py,java,git,dart,lua,angular,nodejs,express,spring,react,flutter,bootstrap,tailwind,anaconda,androidstudio,redux,postgres,mysql,mongodb,supabase,firebase,postman,figma&perline=12" />
   </a>
 </p>
 <br>
