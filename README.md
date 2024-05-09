@@ -1,5 +1,5 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Zein-The-Ripper&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Zein-The-Ripper" /></p>
 
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Zein-The-Ripper&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Zein-The-Ripper" /></p>
 <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
 
 
