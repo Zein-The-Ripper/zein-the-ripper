@@ -1,4 +1,9 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=JaKooLit&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="JaKooLit" /> </p>
+
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <span><b><samp>🔴 🟡 🟢</samp></b></span>
+  <span><img src="https://komarev.com/ghpvc/?username=Zein-The-Ripper&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Zein-The-Ripper" /></span>
+</p>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Zein+" />
@@ -11,8 +16,8 @@
 
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
 - 🌱 I’m currently learning how to code properly
-- 📫 You can follow me on Youtube. [Instagram](https://www.instagram.com/zein_tgb/) Please follow me 🤩 Thanks alot 
-- 🏠 Kindly join my discord [Discord](https://discord.gg/qVG4zRk2bd)
+- 📫 You can follow me on [Instagram](https://www.instagram.com/zein_tgb/) Please follow me 🤩 Thanks alot 
+- 🏠 Kindly join my [Discord](https://discord.gg/qVG4zRk2bd)
 ---
 
 📊 Stats
