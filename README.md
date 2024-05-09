@@ -11,8 +11,8 @@
 
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
 - 🌱 I’m currently learning how to code properly
-- 📫 You can follow me on Youtube. [YouTube](https://www.youtube.com/@Ja.KooLit) Please subscribe 🤩 Thanks alot 
-- 🏠 Kindly join my discord [Discord](https://discord.gg/V2SJ92vbEN)
+- 📫 You can follow me on Youtube. [Instagram](https://www.instagram.com/zein_tgb/) Please follow me 🤩 Thanks alot 
+- 🏠 Kindly join my discord [Discord](https://discord.gg/qVG4zRk2bd)
 ---
 
 📊 Stats
