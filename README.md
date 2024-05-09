@@ -20,8 +20,7 @@
 
 📊 Stats
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zein-The-Ripper&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zein-The-Ripper&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zein-The-Ripper&theme=tokyonight)                 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zein-The-Ripper&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zein-The-Ripper&theme=tokyonight)
 
 [![Donate with PayPal](https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5M5TSXXVW37F2)
