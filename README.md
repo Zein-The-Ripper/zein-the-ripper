@@ -12,10 +12,10 @@
 
 ---
 
-- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
-- 🌱 I’m currently learning how to code properly
-- 📫 You can follow me on [Instagram](https://www.instagram.com/zein_tgb/) Please follow me 🤩 Thanks alot 
-- 🏠 Kindly join my [Discord](https://discord.gg/qVG4zRk2bd)
+- 🔭 I'm a Linux fanatic who likes to play with Computers and related things.
+- 🌱 I'm currently learning to program and hack.
+- 📫 You can follow me on [Instagram](https://www.instagram.com/zein_tgb/) Please follow me. 🤩 Thank you so much! 
+- 🏠 Please join my [Discord](https://discord.gg/qVG4zRk2bd)
 ---
 
 📊 Stats
